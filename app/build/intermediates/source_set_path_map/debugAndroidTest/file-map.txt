@@ -1,0 +1,6 @@
+com.yonakipro.caffeapp5.test.app-annotation-experimental-1.3.0-0 C:\Users\yorda\.gradle\caches\transforms-3\421c4a97b29f997b66c591f3442a2ed9\transformed\annotation-experimental-1.3.0\res
+com.yonakipro.caffeapp5.test.app-core-1.5.0-1 C:\Users\yorda\.gradle\caches\transforms-3\49fe911bc85074cdeeed6634c4bfd647\transformed\core-1.5.0\res
+com.yonakipro.caffeapp5.test.app-androidTest-2 D:\UAS\caffeapp5\app\build\generated\res\resValues\androidTest\debug
+com.yonakipro.caffeapp5.test.app-mergeDebugAndroidTestResources-3 D:\UAS\caffeapp5\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.yonakipro.caffeapp5.test.app-mergeDebugAndroidTestResources-4 D:\UAS\caffeapp5\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.yonakipro.caffeapp5.test.app-merged_res-5 D:\UAS\caffeapp5\app\build\intermediates\merged_res\debugAndroidTest

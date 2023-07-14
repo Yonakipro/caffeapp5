@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-mergeDebugResources-54:\\layout-normal-v4\\about_me.xml",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\layout-normal\\about_me.xml"
+    },
+    {
+        "merged": "com.yonakipro.caffeapp5.app-mergeDebugResources-54:/layout-normal-v4/about_me.xml",
+        "source": "com.yonakipro.caffeapp5.app-main-57:/layout-normal/about_me.xml"
+    },
+    {
+        "merged": "com.yonakipro.caffeapp5.app-mergeDebugResources-54:/layout-normal-v4/contac_me.xml",
+        "source": "com.yonakipro.caffeapp5.app-main-57:/layout-normal/contac_me.xml"
+    }
+]

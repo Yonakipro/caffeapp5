@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.yonakipro.caffeapp5.app-mergeDebugResources-53:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yorda\\.gradle\\caches\\transforms-3\\108d3b9fcba54c1ff04336ae97ed90e3\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

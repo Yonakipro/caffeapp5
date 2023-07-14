@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\drawable_coffee_cup_pana.xml.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\drawable\\coffee_cup_pana.xml"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\drawable_cake_pop_bro.xml.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\drawable\\cake_pop_bro.xml"
+    },
+    {
+        "merged": "com.yonakipro.caffeapp5.app-merged_res-55:/drawable-xxxhdpi_instagram_logo_2022.png.flat",
+        "source": "com.yonakipro.caffeapp5.app-pngs-51:/drawable-xxxhdpi/instagram_logo_2022.png"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\drawable_contact_us_pana.xml.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\drawable\\contact_us_pana.xml"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\drawable_ic_meal_34.png.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\drawable\\ic_meal_34.png"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.yonakipro.caffeapp5.app-merged_res-55:/layout-normal_about_me.xml.flat",
+        "source": "com.yonakipro.caffeapp5.app-main-57:/layout-normal/about_me.xml"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.yonakipro.caffeapp5.app-merged_res-55:/drawable-xxhdpi_instagram_logo_2022.png.flat",
+        "source": "com.yonakipro.caffeapp5.app-pngs-51:/drawable-xxhdpi/instagram_logo_2022.png"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\drawable_address_pana.xml.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\drawable\\address_pana.xml"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-pngs-51:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.yonakipro.caffeapp5.app-merged_res-55:/drawable-xhdpi_instagram_logo_2022.png.flat",
+        "source": "com.yonakipro.caffeapp5.app-pngs-51:/drawable-xhdpi/instagram_logo_2022.png"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.yonakipro.caffeapp5.app-merged_res-55:/drawable-hdpi_instagram_logo_2022.png.flat",
+        "source": "com.yonakipro.caffeapp5.app-pngs-51:/drawable-hdpi/instagram_logo_2022.png"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "com.yonakipro.caffeapp5.app-merged_res-55:/drawable-mdpi_instagram_logo_2022.png.flat",
+        "source": "com.yonakipro.caffeapp5.app-pngs-51:/drawable-mdpi/instagram_logo_2022.png"
+    },
+    {
+        "merged": "com.yonakipro.caffeapp5.app-merged_res-55:/drawable-ldpi_instagram_logo_2022.png.flat",
+        "source": "com.yonakipro.caffeapp5.app-pngs-51:/drawable-ldpi/instagram_logo_2022.png"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "com.yonakipro.caffeapp5.app-merged_res-55:/navigation_nav_graph.xml.flat",
+        "source": "com.yonakipro.caffeapp5.app-main-57:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.yonakipro.caffeapp5.app-merged_res-55:/drawable_wa.png.flat",
+        "source": "com.yonakipro.caffeapp5.app-main-57:/drawable/wa.png"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\drawable_mojito_pana.xml.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\drawable\\mojito_pana.xml"
+    },
+    {
+        "merged": "com.yonakipro.caffeapp5.app-merged_res-55:/drawable_aku.jpg.flat",
+        "source": "com.yonakipro.caffeapp5.app-main-57:/drawable/aku.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\drawable_we_are_open_pana.xml.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\drawable\\we_are_open_pana.xml"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.yonakipro.caffeapp5.app-merged_res-55:/layout-normal_contac_me.xml.flat",
+        "source": "com.yonakipro.caffeapp5.app-main-57:/layout-normal/contac_me.xml"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\drawable_media_player_pana.xml.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\drawable\\media_player_pana.xml"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\layout_item_payment.xml.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\layout\\item_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\layout-normal_about_me.xml.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\layout-normal\\about_me.xml"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.yonakipro.caffeapp5.app-merged_res-55:/drawable-anydpi-v24_instagram_logo_2022.xml.flat",
+        "source": "com.yonakipro.caffeapp5.app-pngs-51:/drawable-anydpi-v24/instagram_logo_2022.xml"
+    },
+    {
+        "merged": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-merged_res-55:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yorda\\.gradle\\daemon\\8.0\\com.yonakipro.caffeapp5.app-main-57:\\mipmap-hdpi\\ic_launcher.webp"
+    }
+]
